@@ -1,13 +1,5 @@
-var a="345678903344"
-var b="555555555555"
-if(a.length>=b.length){
-    console.log(BigIntAdd(a,b))
-}
-else
-{
-    BigIntAdd(b,a)
-}
-function BigIntAdd(a,b){
+
+function bigintegeradd(a,b){
     var sum=""
     var carry=0;
     var diff=b.length-a.length;
@@ -28,4 +20,4 @@ function BigIntAdd(a,b){
     return(sum)
 }
 
-module.exports.bigintegeradd=BigIntAdd
+module.exports.bigintegeradd=bigintegeradd

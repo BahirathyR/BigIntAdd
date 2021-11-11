@@ -10,11 +10,17 @@ Then...
 
 ```
 import {bigintegeradd} from 'bigintegeradd'
- 
- var a="234567899909"
- var b="678905432235"
 
- BigIntAdd(a,b)
+var a="34564893479"
+var b="47934975474"
+
+if(a.length>=b.length){
+    console.log(bigintegeradd(a,b))
+}
+else
+{
+    bigintegeradd(b,a)
+}
 
  ```
 
