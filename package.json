@@ -1,0 +1,11 @@
+{
+  "name": "bigintegeradd",
+  "version": "1.0.0",
+  "description": "Add Long Integer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bahirathy",
+  "license": "ISC"
+}
