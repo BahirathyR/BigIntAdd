@@ -28,4 +28,4 @@ function BigIntAdd(a,b){
     return(sum)
 }
 
-module.exports.BigIntAdd=BigIntAdd
+module.exports.bigintegeradd=BigIntAdd

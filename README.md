@@ -4,12 +4,12 @@ In this module used to add Big or Long Integer.
 
 ## Installation
 
-npm i BigIntAdd --save
+npm i bigintegeradd --save
 
 Then...
 
 ```
-import {BigIntAdd} from 'BigIntAdd'
+import {bigintegeradd} from 'bigintegeradd'
  
  var a="234567899909"
  var b="678905432235"
