@@ -1,6 +1,6 @@
 {
   "name": "bigintegeradd",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Add Long Integer",
   "main": "index.js",
   "scripts": {
