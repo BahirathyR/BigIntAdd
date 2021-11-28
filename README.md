@@ -9,7 +9,7 @@ npm i bigintegeradd --save
 Then...
 
 ```
-import {bigintegeradd} from 'bigintegeradd'
+const {bigintegeradd} = require("bigintegeradd")
 
 var a="34564893479"
 var b="47934975474"
